@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Welcome to ziniv's GitHub. I'm vision AI Engineer.
+----
+
+### Skills : <img src="https://img.shields.io/badge/-c/c++-green"/> <img src="https://img.shields.io/badge/-python-blue"/>  
+### Major : <img src="https://img.shields.io/badge/-Mathematics-yellow"/> <img src="https://img.shields.io/badge/-Fusion IoT Engineering-blueviolet"/>  
+
 
 <!--
 **ziniv/ziniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
