@@ -1,4 +1,4 @@
-### 👋 Welcome to ziniv's GitHub. I'm vision AI Engineer.
+### 👋 Welcome to ziniv's GitHub.
 
 
 ### Skills : <img src="https://img.shields.io/badge/-c/c++-green"/> <img src="https://img.shields.io/badge/-python-blue"/>  
